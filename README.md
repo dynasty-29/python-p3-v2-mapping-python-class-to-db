@@ -2,7 +2,7 @@
 
 ## Learning Goals
 
-- Persist the attributes of a Python object as a row in a database table.
+- Persist the attributes of a Python object as a row in a database table..
 
 ---
 
